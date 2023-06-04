@@ -1,0 +1,9 @@
+label.form-label {
+  font-size: 14px !important;
+}
+
+.rbt-input-main {
+  height: 40px;
+  font-size: 16px;
+  font-weight: 400;
+}
